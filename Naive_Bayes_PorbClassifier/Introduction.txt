@@ -1,0 +1,8 @@
+Naive Bayes is a classification algorithm. It is a probabilistic classifier based on Bayes' theorem with an assumption of independence between the features. This assumption is known as "naive" because it simplifies the calculation of probabilities, even though in real-world scenarios, features are often not independent
+
+Applications:
+
+Spam detection
+Text classification
+Sentiment analysis
+Medical diagnosis
